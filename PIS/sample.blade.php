@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Khurt</title>
+	<title>MAGIC</title>
 </head>
 <body>
 
